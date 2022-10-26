@@ -1,1 +1,1 @@
-My project is a fee management system based on PHP.
+My project is a university fee management system based on PHP.
